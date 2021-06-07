@@ -172,9 +172,54 @@
 | [Stickers](https://telegram.me/Stickers) | [Stickerdownloadbot](https://telegram.me/Stickerdownloadbot) | [song_downloaderbot](https://telegram.me/song_downloaderbot) | [ahangifybot](https://telegram.me/ahangifybot) |  |
 | [melobot](https://telegram.me/melobot) | [vkm_bot](https://telegram.me/vkm_bot) | [MusicsHunterbot](https://telegram.me/MusicsHunterbot) | [apkdl_bot](https://telegram.me/apkdl_bot) |  |
 
+---
+
+## FAKE
+
+### ▫️▪️▫️ [Email]
+
+|  |  |  |
+|------|------|------|
+| [fakemailbot](https://telegram.me/fakemailbot) | [smtpbot](https://telegram.me/smtpbot) | [etlgr_bot](https://telegram.me/etlgr_bot) |
+| [tmpmailbot](https://telegram.me/tmpmailbot) | [DropmailBot](https://telegram.me/DropmailBot) | [temp_mail_bot](https://telegram.me/temp_mail_bot) |
+| [Tmpmail_bot](https://telegram.me/Tmpmail_bot) | [cb_temp_mail_bot](https://telegram.me/cb_temp_mail_bot) | [TempMail_org_bot](https://telegram.me/TempMail_org_bot) |
 
 
+### ▫️▪️▫️ [Credit-Card]
 
+|  |  | 
+|------|------|
+| [ccgen_robot](https://telegram.me/ccgen_robot) |  |
+
+---
+
+## CHANNEL-GROUP MANAGMENT
+
+|  |  |   | 
+|------|------|------|
+| [ControllerBot](https://telegram.me/ControllerBot) | [anycombot](https://telegram.me/anycombot) | [Channel2RSSBot](https://telegram.me/Channel2RSSBot) |
+| [TGStat_Bot](https://telegram.me/TGStat_Bot) | [pstrbot](https://telegram.me/pstrbot) |  |
+| [Star_Red_bot](https://telegram.me/Star_Red_bot) | [ForceSub_Bot](https://telegram.me/ForceSub_Bot) |  |
+
+---
+
+## PROXY-VPN
+
+|  |  |   | 
+|------|------|------|
+| [socks5_bot](https://telegram.me/socks5_bot) | [TgVpnBot](https://telegram.me/TgVpnBot) | [socksy_bot](https://telegram.me/socksy_bot) |
+| [yadda_proxybot](https://telegram.me/yadda_proxybot) | [tgfreebot](https://telegram.me/tgfreebot) | [FCK_RKN_bot](https://telegram.me/FCK_RKN_bot) |
+| [ShadowSocks_bot](https://telegram.me/ShadowSocks_bot) | [proxy_socks5_bot](https://telegram.me/proxy_socks5_bot) | [rknobhodbot](https://telegram.me/rknobhodbot) |
+| [DigitalResistanceProxyBot](https://telegram.me/DigitalResistanceProxyBot) | [mtpro_xyz_bot](https://telegram.me/mtpro_xyz_bot) | [sentinel_network_bot](https://telegram.me/sentinel_network_bot) |
+
+---
+
+## DEVELOPERS-TOOL
+
+|  |  |   | 
+|------|------|------|
+| [GithubReleasesBot](https://telegram.me/GithubReleasesBot) | [GitHubBot](https://telegram.me/GitHubBot) | [MetricsBot](https://telegram.me/MetricsBot) |
+| [WolframBot](https://telegram.me/WolframBot) | [IFTTT](https://telegram.me/IFTTT) |  |
 
 
 
